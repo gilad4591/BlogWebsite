@@ -15,9 +15,15 @@ This is another project that made to practice NodeJS & EJS, layouts and templati
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/44448238/125161310-438d4400-e18a-11eb-98f3-ab2750e2b4c0.png" width=400px height=300px>
+* Home page
 
-<img src="https://user-images.githubusercontent.com/44448238/125161331-64ee3000-e18a-11eb-9a0e-d4a28158f854.png" width=400px height=300px>
+<img src="https://user-images.githubusercontent.com/44448238/125162018-5e61b780-e18e-11eb-9939-6b92de953f80.png" width=400px height=300px>
 
-<img src="https://user-images.githubusercontent.com/44448238/125161338-6fa8c500-e18a-11eb-8f59-be384e4cc671.png" width=400px height=300px>
+* Post page
+
+<img src="https://user-images.githubusercontent.com/44448238/125162042-805b3a00-e18e-11eb-874d-4a627e426a23.png" width=400px height=300px>
+
+* Compose post
+
+<img src="https://user-images.githubusercontent.com/44448238/125162063-a2ed5300-e18e-11eb-960f-e761012d03d0.png" width=400px height=300px>
 

@@ -4,18 +4,16 @@
 <%=content%>
 <% posts.forEach(function(post){%>
   <h2><%=post.title%></h2>
-  <% if (post.title.length > 100) { %>
+  <% if (post.content.length > 100) { %>
   <p>
     <%=post.preview%>
     <a href="/post/<%=post.title%>">Read More</a>
   </p>
-<% } %>
-<% else {
+<% } else { %>
 <p>
   <%=post.content%>
 </p>
 
-<%}%>
-<%})%>
+<% }})%>
 
 <%-include('partials/footer.ejs')-%>

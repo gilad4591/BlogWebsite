@@ -24,6 +24,12 @@ p{
     background-color: transparent;
 }
 
+.overflow-content{
+margin-top: 20px;
+  overflow: auto;
+  max-height: 250px;
+}
+
 .btn-primary{
   background-color: #548CA8;
   border-color: transparent;
